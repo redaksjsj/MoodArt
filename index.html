@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoodArt</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>MoodArt</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Entrez votre humeur</h2>
+            <textarea id="moodInput" placeholder="Je me sens..."></textarea>
+            <button onclick="generateArt()">Générer l'art</button>
+        </section>
+        <section id="artSection">
+            <h2>Votre œuvre d'art</h2>
+            <div id="artDisplay"></div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
