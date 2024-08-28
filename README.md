@@ -1,7 +1,7 @@
 # MoodArt
 
 ## Description
-MoodArt est un générateur d'art interactif alimenté par l'intelligence artificielle (IA). Ce projet permet aux utilisateurs de saisir leur humeur sous forme de texte, puis utilise des technologies d'IA pour analyser cette humeur et créer une œuvre d'art unique en fonction de l'émotion détectée. L'application vise à offrir une expérience personnalisée et créative basée sur les sentiments des utilisateurs.
+MoodArt est un générateur d'art interactif alimenté par *Ahmed-Reda Saadani* . Ce projet permet aux utilisateurs de saisir leur humeur sous forme de texte, puis utilise des technologies d'IA pour analyser cette humeur et créer une œuvre d'art unique en fonction de l'émotion détectée. L'application vise à offrir une expérience personnalisée et créative basée sur les sentiments des utilisateurs.
 
 ## Fonctionnalités
 
